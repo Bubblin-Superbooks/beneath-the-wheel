@@ -1,0 +1,23 @@
+{
+  "0": "<li><a class = \"page\" href=\"7\"> First chapter </a> <span class=\"flex\">7</span> </li>",
+  "1": "<li><a class = \"page\" href=\"34\"> * * * * * </a> <span class=\"flex\">34</span> </li>",
+  "2": "<li><a class = \"page\" href=\"70\"> Second chapter </a> <span class=\"flex\">70</span> </li>",
+  "3": "<li><a class = \"page\" href=\"88\"> * * * * * </a> <span class=\"flex\">88</span> </li>",
+  "4": "<li><a class = \"page\" href=\"113\"> * * * * * </a> <span class=\"flex\">113</span> </li>",
+  "5": "<li><a class = \"page\" href=\"123\"> Third chapter </a> <span class=\"flex\">123</span> </li>",
+  "6": "<li><a class = \"page\" href=\"153\"> * * * * * </a> <span class=\"flex\">153</span> </li>",
+  "7": "<li><a class = \"page\" href=\"182\"> * * * * * </a> <span class=\"flex\">182</span> </li>",
+  "8": "<li><a class = \"page\" href=\"196\"> Fourth chapter </a> <span class=\"flex\">196</span> </li>",
+  "9": "<li><a class = \"page\" href=\"208\"> * * * * * </a> <span class=\"flex\">208</span> </li>",
+  "10": "<li><a class = \"page\" href=\"257\"> Fifth chapter </a> <span class=\"flex\">257</span> </li>",
+  "11": "<li><a class = \"page\" href=\"263\"> * * * * * </a> <span class=\"flex\">263</span> </li>",
+  "12": "<li><a class = \"page\" href=\"276\"> * * * * * </a> <span class=\"flex\">276</span> </li>",
+  "13": "<li><a class = \"page\" href=\"290\"> * * * * * </a> <span class=\"flex\">290</span> </li>",
+  "14": "<li><a class = \"page\" href=\"305\"> Sixth chapter </a> <span class=\"flex\">305</span> </li>",
+  "15": "<li><a class = \"page\" href=\"315\"> * * * * * </a> <span class=\"flex\">315</span> </li>",
+  "16": "<li><a class = \"page\" href=\"340\"> * * * * * </a> <span class=\"flex\">340</span> </li>",
+  "17": "<li><a class = \"page\" href=\"355\"> Seventh chapter </a> <span class=\"flex\">355</span> </li>",
+  "18": "<li><a class = \"page\" href=\"375\"> * * * * * </a> <span class=\"flex\">375</span> </li>",
+  "19": "<li><a class = \"page\" href=\"388\"> * * * * * </a> <span class=\"flex\">388</span> </li>",
+  "20": "<li><a class = \"page\" href=\"409\"> The End </a> <span class=\"flex\">409</span> </li>"
+}
